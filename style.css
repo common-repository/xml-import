@@ -1,0 +1,69 @@
+#xmli-post-fields {
+	width: 200px;
+	display: inline;
+}
+#xmli-post-fields > a {
+	display:block;
+}
+#xmli-data {
+	display: inline-block;
+	vertical-align: middle;
+}
+#xmli-data > * {
+	float: left;
+	font-size: 1em;
+}
+#xmli-data > input {
+	width: 60px;
+}
+#xmli-feed-content div {
+	margin-left: 20px;
+	color: purple;
+}
+#xmli-feed-content .attr-key {
+	font-weight: bold;
+	color: green;
+	margin-left: 10px;
+}
+#xmli-feed-content .attr-val {
+	font-weight: bold;
+	color: red;
+}
+#xmli-feed-content .tag {
+	font-weight: bold;
+	color: blue;
+}
+#xmli-feed-content .inner-val {
+	font-weight: bold;
+}
+#xmli-assign-path-wrap {
+	display: none;
+}
+#xmli-assign-path {
+	display: inline;
+}
+#xmli-feed-content span {
+	cursor: pointer;
+}
+#xmli-assign-path-wrap .button-secondary {
+	vertical-align: middle;
+}
+#xmli-map table {
+	border: 1px solid #555;
+}
+#xmli-map table th {
+	text-align: center;
+}
+#xmli-map table td {
+	padding: 3px 10px;
+}
+.xmli-map-key {
+	font-weight: bold;
+	border-right: 1px solid #555;
+}
+.xmli-save-map{
+	text-align: right;
+}
+#required-fields, #unique-fields, #csv-delimiter {
+	width: 100%;
+}

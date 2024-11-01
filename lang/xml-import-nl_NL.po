@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-02-08 14:35+0100\n"
+"PO-Revision-Date: 2016-02-08 15:37+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_x;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPathExcluded-0: tmp\n"
+"X-Poedit-SearchPathExcluded-1: lang\n"
+
+#: includes/class-xml-import.php:73 includes/class-xml-import.php:75
+msgid "Feeds"
+msgstr "Feeds"
+
+#: includes/class-xml-import.php:74 includes/class-xml-import.php:76
+msgid "Feed"
+msgstr "Feed"
+
+#: includes/class-xml-import.php:77
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: includes/class-xml-import.php:78
+msgid "Add New Feed"
+msgstr "Nieuwe feed toevoegen"
+
+#: includes/class-xml-import.php:79
+msgid "New Feed"
+msgstr "Nieuwe feed"
+
+#: includes/class-xml-import.php:80
+msgid "Edit Feed"
+msgstr "Feed bewerken"
+
+#: includes/class-xml-import.php:81
+msgid "View Feed"
+msgstr "Feed bekijken"
+
+#: includes/class-xml-import.php:82
+msgid "All Feeds"
+msgstr "Alle feeds"
+
+#: includes/class-xml-import.php:83
+msgid "Search Feeds"
+msgstr "Feeds zoeken"
+
+#: includes/class-xml-import.php:84
+msgid "Parent Feeds:"
+msgstr "Ouder feeds:"
+
+#: includes/class-xml-import.php:85
+msgid "No feeds found."
+msgstr "Geen feeds gevonden."
+
+#: includes/class-xml-import.php:86
+msgid "No feeds found in Trash."
+msgstr "Geen feeds gevonden in de prullenbak."
+
+#: includes/class-xml-import.php:106 includes/class-xml-import.php:115
+#: includes/class-xml-import.php:116
+msgid "Import"
+msgstr "Importeer"
+
+#: includes/class-xml-import.php:122
+msgid "Downloading .. "
+msgstr "Aan het downloaden .."
+
+#: includes/class-xml-import.php:133
+msgid "Local copy of feed found"
+msgstr "Lokale kopie van feed gevonden"
+
+#: includes/class-xml-import.php:135
+msgid "No local copy of feed found"
+msgstr "Geen lokale kopie van feed gevonden"
+
+#: includes/class-xml-import.php:137
+msgid "Download new copy"
+msgstr "Download nieuwe kopie"
+
+#: includes/class-xml-import.php:165
+msgid "Required Fields"
+msgstr "Vereiste velden"
+
+#: includes/class-xml-import.php:166
+msgid "Unique Fields"
+msgstr "Unieke velden"
+
+#: includes/class-xml-import.php:167
+msgid "CSV Delimiter"
+msgstr "CSV scheidingsteken"
+
+#: includes/class-xml-import.php:168
+msgid "Select root"
+msgstr "Selecteer wortel"
+
+#: includes/class-xml-import.php:169
+msgid "Select post field"
+msgstr "Selecteer post veld"
+
+#: includes/class-xml-import.php:170
+msgid "Map"
+msgstr "Map"
+
+#: includes/class-xml-import.php:235
+msgid "Comma-separated list of unique fields"
+msgstr "Door komma's gescheiden lijst met unieke velden"
+
+#: includes/class-xml-import.php:240
+msgid "Comma-separated list of required fields"
+msgstr "Door komma's gescheiden lijst met vereiste velden"
+
+#: includes/class-xml-import.php:245
+msgid "CSV delimiter: Only fill this in if the feed is actually a CSV file!"
+msgstr "CSV scheidingsteken: Vul dit veld alleen in als de feed een CSV bestand is!"
+
+#: includes/class-xml-import.php:258
+msgid "Select"
+msgstr "Selecteer"
+
+#: includes/class-xml-import.php:267
+msgid "Save map"
+msgstr "Map opslaan"
+
+#: includes/class-xml-import.php:282
+msgid "Taxonomies"
+msgstr "Taxonomieën"
+
+#: includes/class-xml-import.php:289
+msgid "Assign path"
+msgstr "Pad toewijzen"
+
+#: includes/class-xml-import.php:291
+msgid "Add to map"
+msgstr "Aan map toevoegen"
+
+#: includes/class-xml-import.php:438
+msgid "Add to attribute list"
+msgstr "Attribuut toevoegen aan de lijst"
+
+#: includes/class-xml-import.php:475
+msgid "Any"
+msgstr "Elke"
+
+#: includes/class-xml-import.php:643
+msgid "posts imported"
+msgstr "posts geïmporteerd"
+
+#: includes/class-xml-import.php:785
+msgid "Download complete"
+msgstr "Download voltooid"
+
+#: includes/class-xml-import.php:787
+msgid "Could not download"
+msgstr "Kon niet downloaden"
+
+#: includes/class-xml-import.php:800
+msgid "Invalid input"
+msgstr "Ongeldige invoer"
+
+#: includes/class-xml-import.php:813
+msgid "Required field 'post_title' is not mapped"
+msgstr "Vereiste veld 'post_title' is niet gemapped"
+
+#: includes/class-xml-import.php:827
+#, php-format
+msgid "Required field '%s' is not mapped"
+msgstr "Vereiste veld '%s' is niet gemapped"
+
+#: includes/class-xml-import.php:1032
+msgid "Could not find post"
+msgstr "Kon post niet vinden"
+
+#: includes/class-xml-import.php:1046
+msgid "Map saved successfully"
+msgstr "Map opgeslagen"
+
+#: includes/class-xml-import.php:1049
+msgid "Could not save map"
+msgstr "Kon map niet opslaan"
+
+#: includes/class-xml-import.php:1144
+#, php-format
+msgid "Make at least one %s item as an example for the XML importer"
+msgstr "Maak ten minste 1 %s item als voorbeeld voor de XML importeur"
